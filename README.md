@@ -1,2 +1,3 @@
-# senate
-notes from senate meetings
+# Senate Notes
+
+Freeform notes from Carthage College Senate meetings.
